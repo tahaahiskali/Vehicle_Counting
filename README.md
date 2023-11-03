@@ -6,7 +6,7 @@ Vehicle Counting using C++, OpenVINO CNN Model, Centroid Tracker Algorithm and O
 
 # Prepare Environment
 
-bash install-requirements
-make
+bash install-requirements  
+make  
 ./VehicleCounter
 
