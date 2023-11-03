@@ -13,3 +13,4 @@ make
 ```
 
 
+**Find an example highway video to run the program. The program expects video as input.**
